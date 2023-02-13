@@ -1,2 +1,17 @@
 # alx-system_engineering-devops
-A sc
+A Script that prints the absolute path name of the current working directory(0-current_working_directory)
+A script that display the content list of your current direcrory(1-listit)
+A script that changes the working directory to the user's home directory(2-bring_me_home)
+A script that display the contents of the current working directory in a long format(3-listfiles)
+A script that display contents of the current directory including hidden files in a long format(4-listmorefiles)
+A script that display current directory contents(5-listfilesdigitonly)
+A script that creates a directory named my_first_directory in the /tmp/ directory(6-firstdirectory)
+A script that moves betty from /tmp/ to my_first_directory(7-movethatfile)
+A script that deletes the file betty(8-firstdelete)
+A script that deletes the directory my_first_directory(9-firstdirdeletion)
+A script that changes the working directory to the previous one(10-back)
+A script that lists all files in a long format(11-lists)
+A script that prints the type of the file iamafile(12-file_type)
+A script that create a symbolic link to /bin/ls/ named, _ls_(13-symbolic_link)
+A script that copies all the HTML files from the current working directory to the parent of the working directory(14-copy_html)
+
